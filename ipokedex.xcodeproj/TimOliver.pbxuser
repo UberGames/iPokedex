@@ -1,0 +1,2272 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iPokedexAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1259}}";
+			sepNavSelRange = "{641, 13}";
+			sepNavVisRange = "{0, 662}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iPokedexAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1031}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2140}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPokedex */ = {
+		activeExec = 0;
+		executables = (
+			F15A131912ED29A8007A5407 /* iPokedex */,
+		);
+	};
+	2211B10F1295183B00954510 /* PokemonListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1259}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{0, 1086}";
+		};
+	};
+	2211B1101295183B00954510 /* PokemonListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 4459}}";
+			sepNavSelRange = "{8557, 185}";
+			sepNavVisRange = "{6840, 3398}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	2219A6B713232A0000930B38 /* TCSegmentedListController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 852}";
+		};
+	};
+	2219A6B813232A0000930B38 /* TCSegmentedListController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1716}}";
+			sepNavSelRange = "{2881, 0}";
+			sepNavVisRange = "{0, 3453}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	2219A82013236AC700930B38 /* EggGroupsListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1236}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 439}";
+		};
+	};
+	2219A82113236AC700930B38 /* EggGroupsListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{2160, 0}";
+			sepNavVisRange = "{0, 2197}";
+			sepNavWindowFrame = "{{88, 575}, {1695, 775}}";
+		};
+	};
+	2219A82413236B0500930B38 /* EggGroupEntryFinder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1460}";
+		};
+	};
+	2219A8651323792200930B38 /* TCSearchableListViewController+ListEntryFinder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 652}}";
+			sepNavSelRange = "{537, 0}";
+			sepNavVisRange = "{0, 1045}";
+		};
+	};
+	222D495312C9C5B400B101A1 /* MoveListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1636, 3991}}";
+			sepNavSelRange = "{822, 0}";
+			sepNavVisRange = "{48, 1328}";
+			sepNavWindowFrame = "{{65, 596}, {1695, 775}}";
+		};
+	};
+	222D495512C9C6EC00B101A1 /* Move.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{905, 0}";
+			sepNavVisRange = "{0, 1997}";
+		};
+	};
+	222D495612C9C6EC00B101A1 /* Move.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 1105}}";
+			sepNavSelRange = "{2493, 0}";
+			sepNavVisRange = "{462, 1596}";
+		};
+	};
+	222D495812C9C77000B101A1 /* MoveEntryFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1287}}";
+			sepNavSelRange = "{1811, 24}";
+			sepNavVisRange = "{0, 2492}";
+		};
+	};
+	222D495912C9C77000B101A1 /* MoveEntryFinder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 4979}}";
+			sepNavSelRange = "{976, 0}";
+			sepNavVisRange = "{4204, 3478}";
+		};
+	};
+	222D496A12C9DB7B00B101A1 /* MoveCategories.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{660, 0}";
+			sepNavVisRange = "{0, 664}";
+		};
+	};
+	222D496B12C9DB7B00B101A1 /* MoveCategories.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1352}}";
+			sepNavSelRange = "{1319, 68}";
+			sepNavVisRange = "{0, 2736}";
+		};
+	};
+	2231764B12CB2E9A00399972 /* PokemonProfileMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 1418}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	2231764C12CB2E9A00399972 /* PokemonProfileMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1758, 5993}}";
+			sepNavSelRange = "{11349, 0}";
+			sepNavVisRange = "{11148, 1078}";
+		};
+	};
+	223176D712CB469100399972 /* PokemonProfileTabController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1259}}";
+			sepNavSelRange = "{253, 18}";
+			sepNavVisRange = "{0, 954}";
+		};
+	};
+	223176D812CB469100399972 /* PokemonProfileTabController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1703}}";
+			sepNavSelRange = "{4219, 0}";
+			sepNavVisRange = "{216, 4052}";
+		};
+	};
+	2231772512CB6CE600399972 /* PokemonInfoHeader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1236}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 733}";
+		};
+	};
+	2231772612CB6CE600399972 /* PokemonInfoHeader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1430}}";
+			sepNavSelRange = "{1923, 0}";
+			sepNavVisRange = "{253, 2795}";
+		};
+	};
+	22320C1B130D1FF8005BE64F /* PokemonProfilePokedexViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 679}";
+		};
+	};
+	22320C1C130D1FF8005BE64F /* PokemonProfilePokedexViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 2314}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2429}";
+		};
+	};
+	22320C39130D2551005BE64F /* PokemonFlavorTexts.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 1937}}";
+			sepNavSelRange = "{3585, 0}";
+			sepNavVisRange = "{2760, 1623}";
+		};
+	};
+	2235EC2E1294EACC00FF9113 /* Pokemon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 2236}}";
+			sepNavSelRange = "{310, 125}";
+			sepNavVisRange = "{0, 1265}";
+		};
+	};
+	2235EC2F1294EACC00FF9113 /* Pokemon.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 2509}}";
+			sepNavSelRange = "{4468, 0}";
+			sepNavVisRange = "{2825, 3031}";
+		};
+	};
+	2235EC311294EDFF00FF9113 /* ElementalTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{692, 0}";
+			sepNavVisRange = "{0, 757}";
+		};
+	};
+	2235EC321294EDFF00FF9113 /* ElementalTypes.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1586}}";
+			sepNavSelRange = "{2133, 59}";
+			sepNavVisRange = "{164, 2963}";
+		};
+	};
+	223A5D8512AA82AB009A33AC /* TCMoreTabViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 921}";
+		};
+	};
+	223A5D8612AA82AB009A33AC /* TCMoreTabViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 2249}}";
+			sepNavSelRange = "{2567, 0}";
+			sepNavVisRange = "{1608, 2073}";
+		};
+	};
+	223A5D8712AA82AB009A33AC /* TCTabBarController+UITabBarDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1236}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 422}";
+		};
+	};
+	223A5D8812AA82AB009A33AC /* TCTabBarController+UITabBarDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 1365}}";
+			sepNavSelRange = "{2491, 0}";
+			sepNavVisRange = "{1750, 1655}";
+		};
+	};
+	223A5D8912AA82AB009A33AC /* TCTabBarController+UITableViewDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 619}";
+		};
+	};
+	223A5D8A12AA82AB009A33AC /* TCTabBarController+UITableViewDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{953, 0}";
+			sepNavVisRange = "{0, 2648}";
+		};
+	};
+	223A5D8B12AA82AB009A33AC /* TCTabBarController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1236}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 2900}";
+		};
+	};
+	223A5D8C12AA82AB009A33AC /* TCTabBarController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 7228}}";
+			sepNavSelRange = "{13411, 0}";
+			sepNavVisRange = "{12814, 2869}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	223A5D8D12AA82AB009A33AC /* TCTabBarItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1236}}";
+			sepNavSelRange = "{223, 16}";
+			sepNavVisRange = "{0, 668}";
+		};
+	};
+	223A5D8E12AA82AB009A33AC /* TCTabBarItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2495, 949}}";
+			sepNavSelRange = "{1822, 0}";
+			sepNavVisRange = "{571, 1304}";
+		};
+	};
+	223A5D8F12AA82AB009A33AC /* TCNavigationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1054}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 472}";
+		};
+	};
+	223A5D9012AA82AB009A33AC /* TCNavigationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 1105}}";
+			sepNavSelRange = "{1009, 7}";
+			sepNavVisRange = "{0, 1395}";
+		};
+	};
+	2243180B13004CEB002314A0 /* TCFloatedBoxesView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1261}}";
+			sepNavSelRange = "{727, 0}";
+			sepNavVisRange = "{0, 1188}";
+		};
+	};
+	2243180C13004CEB002314A0 /* TCFloatedBoxesView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1521}}";
+			sepNavSelRange = "{1146, 0}";
+			sepNavVisRange = "{291, 2523}";
+			sepNavWindowFrame = "{{42, 617}, {1695, 775}}";
+		};
+	};
+	224805BE12A38F5C00700655 /* AboutViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 2552}}";
+			sepNavSelRange = "{1249, 0}";
+			sepNavVisRange = "{3007, 1145}";
+		};
+	};
+	2248069112A3C5C300700655 /* CopyrightViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4143, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4194, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4244, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4940}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 2210}}";
+			sepNavSelRange = "{557, 7}";
+			sepNavVisRange = "{0, 1643}";
+		};
+	};
+	224852601323CE9500A9D930 /* EggGroupMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{410, 81}";
+			sepNavVisRange = "{0, 595}";
+		};
+	};
+	224852611323CE9500A9D930 /* EggGroupMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{886, 0}";
+			sepNavVisRange = "{0, 894}";
+		};
+	};
+	22494FBA12E2BAE700E3C4A1 /* PokemonGenderRatioView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 4108}}";
+			sepNavSelRange = "{3144, 0}";
+			sepNavVisRange = "{1951, 1840}";
+		};
+	};
+	22494FBC12E2BB6E00E3C4A1 /* PokemonEffortYieldView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1486, 889}}";
+			sepNavSelRange = "{269, 63}";
+			sepNavVisRange = "{0, 1066}";
+		};
+	};
+	22494FBD12E2BB6E00E3C4A1 /* PokemonEffortYieldView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 3406}}";
+			sepNavSelRange = "{1377, 0}";
+			sepNavVisRange = "{595, 1738}";
+		};
+	};
+	2260C29412DCB8D800277BAB /* TCTableViewSplitCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1236}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 710}";
+		};
+	};
+	2260C29512DCB8D800277BAB /* TCTableViewSplitCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1274}}";
+			sepNavSelRange = "{591, 44}";
+			sepNavVisRange = "{0, 2573}";
+		};
+	};
+	2269CC9612FE5FAE0004D194 /* ElementalTypesDamages.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1573}}";
+			sepNavSelRange = "{1687, 0}";
+			sepNavVisRange = "{0, 3878}";
+			sepNavWindowFrame = "{{409, 432}, {1695, 775}}";
+		};
+	};
+	226C19C212CAE575004A0821 /* MoveTableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 1729}}";
+			sepNavSelRange = "{766, 7}";
+			sepNavVisRange = "{0, 2264}";
+		};
+	};
+	226F56ED12C19B4D00B81C52 /* Generations.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 672}}";
+			sepNavSelRange = "{362, 0}";
+			sepNavVisRange = "{0, 579}";
+		};
+	};
+	22726D63130D6BFC0031712E /* PokemonPokedexTextView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 680}";
+		};
+	};
+	22726D64130D6BFC0031712E /* PokemonPokedexTextView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2116}";
+		};
+	};
+	22766F1912F1227A0083C05D /* ja */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{29, 0}";
+			sepNavVisRange = "{0, 29}";
+		};
+	};
+	2285CD2612DD5C6400C2088C /* TCListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{2432, 0}";
+			sepNavVisRange = "{0, 2919}";
+			sepNavWindowFrame = "{{65, 596}, {1695, 775}}";
+		};
+	};
+	2285CD2712DD5C6400C2088C /* TCListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1142, 5603}}";
+			sepNavSelRange = "{3088, 0}";
+			sepNavVisRange = "{2744, 858}";
+			sepNavWindowFrame = "{{625, 113}, {1695, 775}}";
+		};
+	};
+	22A3034C12E7E0F1008B00B7 /* RoundedRectView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{564, 0}";
+			sepNavVisRange = "{0, 738}";
+		};
+	};
+	22A3034D12E7E0F1008B00B7 /* RoundedRectView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 1638}}";
+			sepNavSelRange = "{3549, 0}";
+			sepNavVisRange = "{2061, 1910}";
+			sepNavWindowFrame = "{{42, 617}, {1695, 775}}";
+		};
+	};
+	22ABFC67130BE3B200B39D35 /* PokemonProfileMovesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{189, 277}";
+			sepNavVisRange = "{0, 1114}";
+		};
+	};
+	22ABFC68130BE3B200B39D35 /* PokemonProfileMovesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1356, 2938}}";
+			sepNavSelRange = "{1198, 8}";
+			sepNavVisRange = "{734, 1996}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	22B30AF7131003E500BDE120 /* PokemonProfileEvolutionsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 642}";
+		};
+	};
+	22B30AF8131003E500BDE120 /* PokemonProfileEvolutionsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 2652}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3237}";
+		};
+	};
+	22B44FAB130AABB0000D75B2 /* MoveTableCellContentView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1213}}";
+			sepNavSelRange = "{1441, 108}";
+			sepNavVisRange = "{0, 1556}";
+		};
+	};
+	22B44FAC130AABB0000D75B2 /* MoveTableCellContentView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 2392}}";
+			sepNavSelRange = "{1558, 652}";
+			sepNavVisRange = "{883, 2850}";
+		};
+	};
+	22BC748512B0C74900C350A1 /* EntryFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1054}}";
+			sepNavSelRange = "{1134, 0}";
+			sepNavVisRange = "{0, 1140}";
+		};
+	};
+	22BC748612B0C74900C350A1 /* EntryFinder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 2015}}";
+			sepNavSelRange = "{2859, 0}";
+			sepNavVisRange = "{728, 2295}";
+		};
+	};
+	22BEB4E2129C0B5B00593415 /* PokemonEntryFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1651}}";
+			sepNavSelRange = "{2635, 28}";
+			sepNavVisRange = "{36, 2533}";
+		};
+	};
+	22BEB4E3129C0B5B00593415 /* PokemonEntryFinder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1636, 9269}}";
+			sepNavSelRange = "{23189, 0}";
+			sepNavVisRange = "{13153, 1898}";
+			sepNavWindowFrame = "{{42, 617}, {1695, 775}}";
+		};
+	};
+	22C19DFC131E52E800213268 /* TableHeaderContentView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1586}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2716}";
+		};
+	};
+	22C19FBF131E8EC800213268 /* MoveFlagsContentView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 2730}}";
+			sepNavSelRange = "{3161, 7}";
+			sepNavVisRange = "{2488, 1481}";
+		};
+	};
+	22C7CF5B12EE604E001AAC23 /* GlossyRoundedRectView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{395, 0}";
+			sepNavVisRange = "{0, 2516}";
+		};
+	};
+	22D821471294B00D00D3A5E8 /* bulbadex.sqlite */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {6146, 999866}}";
+			sepNavSelRange = "{24766, 18}";
+			sepNavVisRect = "{{0, 1635}, {1097, 1029}}";
+		};
+	};
+	22D8214B1294B01500D3A5E8 /* FMDatabase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1142, 9516}}";
+			sepNavSelRange = "{9431, 0}";
+			sepNavVisRange = "{9023, 623}";
+		};
+	};
+	22D8214F1294B01500D3A5E8 /* FMResultSet.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1142, 4875}}";
+			sepNavSelRange = "{3826, 0}";
+			sepNavVisRange = "{3612, 662}";
+		};
+	};
+	22D8215E1294B07900D3A5E8 /* RootViewTabBarController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1031}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1300}";
+		};
+	};
+	22D8215F1294B07900D3A5E8 /* RootViewTabBarController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 1716}}";
+			sepNavSelRange = "{4057, 0}";
+			sepNavVisRange = "{3967, 624}";
+		};
+	};
+	22DAF783130986E6005C3EAD /* TCSearchableListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1106}";
+		};
+	};
+	22DAF784130986E6005C3EAD /* TCSearchableListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 3575}}";
+			sepNavSelRange = "{4672, 0}";
+			sepNavVisRange = "{3812, 1271}";
+			sepNavWindowFrame = "{{65, 596}, {1695, 775}}";
+		};
+	};
+	22F132A312EE87D6004159DD /* PokemonProfileStatsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{466, 0}";
+			sepNavVisRange = "{0, 627}";
+		};
+	};
+	22F132A412EE87D6004159DD /* PokemonProfileStatsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 2444}}";
+			sepNavSelRange = "{1933, 0}";
+			sepNavVisRange = "{838, 1434}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	22F132A712EE8844004159DD /* PokemonBaseStatsView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{747, 0}";
+			sepNavVisRange = "{0, 1030}";
+		};
+	};
+	22F132A812EE8844004159DD /* PokemonBaseStatsView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1486, 5135}}";
+			sepNavSelRange = "{2521, 0}";
+			sepNavVisRange = "{1947, 2858}";
+		};
+	};
+	22F132AA12EE8B00004159DD /* PokemonTypeStrengthsView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{325, 0}";
+			sepNavVisRange = "{0, 438}";
+		};
+	};
+	22F132AB12EE8B00004159DD /* PokemonTypeStrengthsView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1486, 2340}}";
+			sepNavSelRange = "{1743, 0}";
+			sepNavVisRange = "{1528, 1408}";
+		};
+	};
+	22F852FD13029CED00DD89E0 /* PokemonTableCellContentView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1213}}";
+			sepNavSelRange = "{1086, 0}";
+			sepNavVisRange = "{0, 1093}";
+		};
+	};
+	22F852FE13029CED00DD89E0 /* PokemonTableCellContentView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1781}}";
+			sepNavSelRange = "{1078, 0}";
+			sepNavVisRange = "{506, 2647}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	22F88F2A12C04EC400BF0E1F /* ItemEntryFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1111}";
+		};
+	};
+	22F88F3412C0595300BF0E1F /* ItemTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1261}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 553}";
+		};
+	};
+	22F88F3512C0595300BF0E1F /* ItemTypes.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2066}";
+		};
+	};
+	22F88F3712C066C400BF0E1F /* ItemListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1177}";
+		};
+	};
+	22F88F3812C066C400BF0E1F /* ItemListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 4823}}";
+			sepNavSelRange = "{10650, 0}";
+			sepNavVisRange = "{7510, 3139}";
+		};
+	};
+	22FEB0BD12B0AA0B00EB4C89 /* TCRefinableListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 1029}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1809}";
+		};
+	};
+	22FEB0BE12B0AA0B00EB4C89 /* TCRefinableListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1356, 3185}}";
+			sepNavSelRange = "{597, 0}";
+			sepNavVisRange = "{264, 551}";
+			sepNavWindowFrame = "{{42, 617}, {1695, 775}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F15A131912ED29A8007A5407 /* iPokedex */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPokedex */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPokedex */,
+		);
+		breakpoints = (
+			F1F13C6512ED55B6008502B6 /* PokemonEffortYieldView.m:149 */,
+			F1F4647212FFA03F00E6ED0B /* PokemonProfileStatsViewController.m:135 */,
+			F1F3EE1613271CD300140076 /* malloc_error_break; */,
+		);
+		codeSenseManager = F15A197312ED29A9007A5407 /* Code sense */;
+		executables = (
+			F15A131912ED29A8007A5407 /* iPokedex */,
+		);
+		expressions = (
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1795,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1907,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					2049,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1867,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321340615;
+			PBXWorkspaceStateSaveDate = 321340615;
+		};
+		perUserProjectItems = {
+			F112726F1325CDDB00EA6D18 /* PBXTextBookmark */ = F112726F1325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272701325CDDB00EA6D18 /* PBXTextBookmark */ = F11272701325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272711325CDDB00EA6D18 /* PBXTextBookmark */ = F11272711325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272721325CDDB00EA6D18 /* PBXTextBookmark */ = F11272721325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272731325CDDB00EA6D18 /* PBXTextBookmark */ = F11272731325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272751325CDDB00EA6D18 /* PBXTextBookmark */ = F11272751325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272761325CDDB00EA6D18 /* PBXTextBookmark */ = F11272761325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272771325CDDB00EA6D18 /* PBXTextBookmark */ = F11272771325CDDB00EA6D18 /* PBXTextBookmark */;
+			F11272791325CDDB00EA6D18 /* PBXTextBookmark */ = F11272791325CDDB00EA6D18 /* PBXTextBookmark */;
+			F112727C1325CDDB00EA6D18 /* PBXTextBookmark */ = F112727C1325CDDB00EA6D18 /* PBXTextBookmark */;
+			F1135729131B2FC60043AD6C /* PlistBookmark */ = F1135729131B2FC60043AD6C /* PlistBookmark */;
+			F113572A131B2FC60043AD6C /* PBXTextBookmark */ = F113572A131B2FC60043AD6C /* PBXTextBookmark */;
+			F113572C131B2FC60043AD6C /* PBXTextBookmark */ = F113572C131B2FC60043AD6C /* PBXTextBookmark */;
+			F1135755131B31720043AD6C /* PBXTextBookmark */ = F1135755131B31720043AD6C /* PBXTextBookmark */;
+			F113576D131B48AF0043AD6C /* PBXTextBookmark */ = F113576D131B48AF0043AD6C /* PBXTextBookmark */;
+			F1135777131B8A660043AD6C /* PBXTextBookmark */ = F1135777131B8A660043AD6C /* PBXTextBookmark */;
+			F1135779131B8A660043AD6C /* PBXTextBookmark */ = F1135779131B8A660043AD6C /* PBXTextBookmark */;
+			F11CBEC512ED682500EE7C68 /* PBXTextBookmark */ = F11CBEC512ED682500EE7C68 /* PBXTextBookmark */;
+			F12255CC130510B7001BE7F5 /* PBXTextBookmark */ = F12255CC130510B7001BE7F5 /* PBXTextBookmark */;
+			F12E38FF12FBB0FF00EC954E /* PBXTextBookmark */ = F12E38FF12FBB0FF00EC954E /* PBXTextBookmark */;
+			F12F443712F1500600F28595 /* PBXTextBookmark */ = F12F443712F1500600F28595 /* PBXTextBookmark */;
+			F12F444412F160CF00F28595 /* PBXTextBookmark */ = F12F444412F160CF00F28595 /* PBXTextBookmark */;
+			F1310EA41325EE3D0049561C /* PBXTextBookmark */ = F1310EA41325EE3D0049561C /* PBXTextBookmark */;
+			F1310EB11325EEA40049561C /* PBXTextBookmark */ = F1310EB11325EEA40049561C /* PBXTextBookmark */;
+			F13F0015132613AA00FA7430 /* PBXTextBookmark */ = F13F0015132613AA00FA7430 /* PBXTextBookmark */;
+			F13F0017132613AA00FA7430 /* PBXTextBookmark */ = F13F0017132613AA00FA7430 /* PBXTextBookmark */;
+			F13F0023132615FC00FA7430 /* PBXTextBookmark */ = F13F0023132615FC00FA7430 /* PBXTextBookmark */;
+			F13F0028132615FC00FA7430 /* PBXTextBookmark */ = F13F0028132615FC00FA7430 /* PBXTextBookmark */;
+			F13F0029132615FC00FA7430 /* PBXTextBookmark */ = F13F0029132615FC00FA7430 /* PBXTextBookmark */;
+			F13F002B132615FC00FA7430 /* PBXTextBookmark */ = F13F002B132615FC00FA7430 /* PBXTextBookmark */;
+			F13F00601326178400FA7430 /* PBXTextBookmark */ = F13F00601326178400FA7430 /* PBXTextBookmark */;
+			F13F00611326178400FA7430 /* PBXTextBookmark */ = F13F00611326178400FA7430 /* PBXTextBookmark */;
+			F13F00621326178400FA7430 /* PBXTextBookmark */ = F13F00621326178400FA7430 /* PBXTextBookmark */;
+			F13FFFA513260FA200FA7430 /* PBXTextBookmark */ = F13FFFA513260FA200FA7430 /* PBXTextBookmark */;
+			F14B9B321320B1A000B0099B /* PBXTextBookmark */ = F14B9B321320B1A000B0099B /* PBXTextBookmark */;
+			F14B9B351320B1A000B0099B /* PBXTextBookmark */ = F14B9B351320B1A000B0099B /* PBXTextBookmark */;
+			F1545EBF1303AA4D00F96084 /* PBXTextBookmark */ = F1545EBF1303AA4D00F96084 /* PBXTextBookmark */;
+			F16690441320CD46006133A6 /* PBXTextBookmark */ = F16690441320CD46006133A6 /* PBXTextBookmark */;
+			F16690451320CD46006133A6 /* PBXTextBookmark */ = F16690451320CD46006133A6 /* PBXTextBookmark */;
+			F16690461320CD46006133A6 /* PBXTextBookmark */ = F16690461320CD46006133A6 /* PBXTextBookmark */;
+			F16690471320CD46006133A6 /* PBXTextBookmark */ = F16690471320CD46006133A6 /* PBXTextBookmark */;
+			F16690681320CEC9006133A6 /* PBXTextBookmark */ = F16690681320CEC9006133A6 /* PBXTextBookmark */;
+			F188FBCA132744C2002B6E0E /* PBXTextBookmark */ = F188FBCA132744C2002B6E0E /* PBXTextBookmark */;
+			F188FBE613274590002B6E0E /* PBXTextBookmark */ = F188FBE613274590002B6E0E /* PBXTextBookmark */;
+			F188FBF8132748B9002B6E0E /* PBXTextBookmark */ = F188FBF8132748B9002B6E0E /* PBXTextBookmark */;
+			F188FBF9132748B9002B6E0E /* PBXTextBookmark */ = F188FBF9132748B9002B6E0E /* PBXTextBookmark */;
+			F188FBFC132748B9002B6E0E /* PBXTextBookmark */ = F188FBFC132748B9002B6E0E /* PBXTextBookmark */;
+			F188FC5113275FC1002B6E0E /* PBXTextBookmark */ = F188FC5113275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5213275FC1002B6E0E /* PBXTextBookmark */ = F188FC5213275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5313275FC1002B6E0E /* PBXTextBookmark */ = F188FC5313275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5413275FC1002B6E0E /* PBXTextBookmark */ = F188FC5413275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5513275FC1002B6E0E /* PBXTextBookmark */ = F188FC5513275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5613275FC1002B6E0E /* PBXTextBookmark */ = F188FC5613275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5813275FC1002B6E0E /* PBXTextBookmark */ = F188FC5813275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5913275FC1002B6E0E /* PBXTextBookmark */ = F188FC5913275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5A13275FC1002B6E0E /* PBXTextBookmark */ = F188FC5A13275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC5B13275FC1002B6E0E /* PBXTextBookmark */ = F188FC5B13275FC1002B6E0E /* PBXTextBookmark */;
+			F188FC71132760A9002B6E0E /* PBXTextBookmark */ = F188FC71132760A9002B6E0E /* PBXTextBookmark */;
+			F188FC72132760A9002B6E0E /* PBXTextBookmark */ = F188FC72132760A9002B6E0E /* PBXTextBookmark */;
+			F188FC7F13276118002B6E0E /* PBXTextBookmark */ = F188FC7F13276118002B6E0E /* PBXTextBookmark */;
+			F188FC8013276118002B6E0E /* PBXTextBookmark */ = F188FC8013276118002B6E0E /* PBXTextBookmark */;
+			F19AE8A41303D2F9009534AF /* PBXTextBookmark */ = F19AE8A41303D2F9009534AF /* PBXTextBookmark */;
+			F19AE8A61303D49B009534AF /* PBXTextBookmark */ = F19AE8A61303D49B009534AF /* PBXTextBookmark */;
+			F19AE8A71303D49B009534AF /* PBXTextBookmark */ = F19AE8A71303D49B009534AF /* PBXTextBookmark */;
+			F1BCC4431324CC510024ADAA /* PBXTextBookmark */ = F1BCC4431324CC510024ADAA /* PBXTextBookmark */;
+			F1C91A9A1303B3BB0004BFB0 /* PBXTextBookmark */ = F1C91A9A1303B3BB0004BFB0 /* PBXTextBookmark */;
+			F1C91AB01303B62A0004BFB0 /* PBXTextBookmark */ = F1C91AB01303B62A0004BFB0 /* PBXTextBookmark */;
+			F1C91AB31303B62A0004BFB0 /* PBXTextBookmark */ = F1C91AB31303B62A0004BFB0 /* PBXTextBookmark */;
+			F1C91B121303CF0C0004BFB0 /* PBXTextBookmark */ = F1C91B121303CF0C0004BFB0 /* PBXTextBookmark */;
+			F1C91B151303CF0C0004BFB0 /* PBXTextBookmark */ = F1C91B151303CF0C0004BFB0 /* PBXTextBookmark */;
+			F1D15F73132725350098DDD5 /* PBXTextBookmark */ = F1D15F73132725350098DDD5 /* PBXTextBookmark */;
+			F1D15F74132725350098DDD5 /* PBXTextBookmark */ = F1D15F74132725350098DDD5 /* PBXTextBookmark */;
+			F1D15F75132725350098DDD5 /* PBXTextBookmark */ = F1D15F75132725350098DDD5 /* PBXTextBookmark */;
+			F1D15F77132725350098DDD5 /* PBXTextBookmark */ = F1D15F77132725350098DDD5 /* PBXTextBookmark */;
+			F1D15FDB132732BB0098DDD5 /* PBXTextBookmark */ = F1D15FDB132732BB0098DDD5 /* PBXTextBookmark */;
+			F1D50F5512EEC05600BABA1B /* PBXTextBookmark */ = F1D50F5512EEC05600BABA1B /* PBXTextBookmark */;
+			F1D50F5612EEC05600BABA1B /* PBXTextBookmark */ = F1D50F5612EEC05600BABA1B /* PBXTextBookmark */;
+			F1D611A11300F18C003D04E1 /* PBXTextBookmark */ = F1D611A11300F18C003D04E1 /* PBXTextBookmark */;
+			F1D6126C130101D0003D04E1 /* PBXTextBookmark */ = F1D6126C130101D0003D04E1 /* PBXTextBookmark */;
+			F1D6131213010CDC003D04E1 /* PBXTextBookmark */ = F1D6131213010CDC003D04E1 /* PBXTextBookmark */;
+			F1D6136113011D8A003D04E1 /* PBXTextBookmark */ = F1D6136113011D8A003D04E1 /* PBXTextBookmark */;
+			F1D6136213011D8A003D04E1 /* PBXTextBookmark */ = F1D6136213011D8A003D04E1 /* PBXTextBookmark */;
+			F1D6136413011D8A003D04E1 /* PBXTextBookmark */ = F1D6136413011D8A003D04E1 /* PBXTextBookmark */;
+			F1D61377130125A9003D04E1 /* PBXTextBookmark */ = F1D61377130125A9003D04E1 /* PBXTextBookmark */;
+			F1D613A113012936003D04E1 /* PBXTextBookmark */ = F1D613A113012936003D04E1 /* PBXTextBookmark */;
+			F1D613AA130129C1003D04E1 /* PBXTextBookmark */ = F1D613AA130129C1003D04E1 /* PBXTextBookmark */;
+			F1DA34E31308D9CB0009AA66 /* PBXTextBookmark */ = F1DA34E31308D9CB0009AA66 /* PBXTextBookmark */;
+			F1F2A69F13178A0100E246DF /* PBXTextBookmark */ = F1F2A69F13178A0100E246DF /* PBXTextBookmark */;
+			F1F3EDC2132719F200140076 /* PBXTextBookmark */ = F1F3EDC2132719F200140076 /* PBXTextBookmark */;
+			F1F3EDC3132719F200140076 /* PBXTextBookmark */ = F1F3EDC3132719F200140076 /* PBXTextBookmark */;
+			F1F3EDC4132719F200140076 /* PBXTextBookmark */ = F1F3EDC4132719F200140076 /* PBXTextBookmark */;
+			F1F3EDCF13271A3B00140076 /* PBXTextBookmark */ = F1F3EDCF13271A3B00140076 /* PBXTextBookmark */;
+			F1F3EE4A13271EE900140076 /* PBXTextBookmark */ = F1F3EE4A13271EE900140076 /* PBXTextBookmark */;
+			F1F3EE84132721E400140076 /* PBXTextBookmark */ = F1F3EE84132721E400140076 /* PBXTextBookmark */;
+			F1F3EE86132721E400140076 /* PBXTextBookmark */ = F1F3EE86132721E400140076 /* PBXTextBookmark */;
+			F1F3EE8A132722C200140076 /* PBXTextBookmark */ = F1F3EE8A132722C200140076 /* PBXTextBookmark */;
+			F1F464C912FFA8C000E6ED0B /* PBXTextBookmark */ = F1F464C912FFA8C000E6ED0B /* PBXTextBookmark */;
+			F1F4658612FFD25E00E6ED0B /* PBXTextBookmark */ = F1F4658612FFD25E00E6ED0B /* PBXTextBookmark */;
+			F1F4658712FFD25E00E6ED0B /* PBXTextBookmark */ = F1F4658712FFD25E00E6ED0B /* PBXTextBookmark */;
+			F1F4658812FFD25E00E6ED0B /* PBXTextBookmark */ = F1F4658812FFD25E00E6ED0B /* PBXTextBookmark */;
+			F1F4658912FFD25E00E6ED0B /* PBXTextBookmark */ = F1F4658912FFD25E00E6ED0B /* PBXTextBookmark */;
+			F1F465BD12FFD4D000E6ED0B /* PBXTextBookmark */ = F1F465BD12FFD4D000E6ED0B /* PBXTextBookmark */;
+			F1F465BE12FFD4D000E6ED0B /* PBXTextBookmark */ = F1F465BE12FFD4D000E6ED0B /* PBXTextBookmark */;
+			F1F55396131C8BE4001BAF06 /* PBXTextBookmark */ = F1F55396131C8BE4001BAF06 /* PBXTextBookmark */;
+			F1F55397131C8BE4001BAF06 /* PBXTextBookmark */ = F1F55397131C8BE4001BAF06 /* PBXTextBookmark */;
+			F1F55398131C8BE4001BAF06 /* PBXTextBookmark */ = F1F55398131C8BE4001BAF06 /* PBXTextBookmark */;
+			F1F553AC131E3AC8001BAF06 /* PBXTextBookmark */ = F1F553AC131E3AC8001BAF06 /* PBXTextBookmark */;
+			F1F553AD131E3AC8001BAF06 /* PBXTextBookmark */ = F1F553AD131E3AC8001BAF06 /* PBXTextBookmark */;
+			F1F553AE131E3AC8001BAF06 /* PBXTextBookmark */ = F1F553AE131E3AC8001BAF06 /* PBXTextBookmark */;
+			F1F553B0131E3AC8001BAF06 /* PBXTextBookmark */ = F1F553B0131E3AC8001BAF06 /* PBXTextBookmark */;
+			F1F553B3131E3AC8001BAF06 /* PBXTextBookmark */ = F1F553B3131E3AC8001BAF06 /* PBXTextBookmark */;
+			F1F553B4131E3AC8001BAF06 /* PBXTextBookmark */ = F1F553B4131E3AC8001BAF06 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F15A197212ED29A9007A5407 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F112726F1325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1EF8B511325C3AC00CABEB2 /* UIViewController.h */;
+		name = "UIViewController.h: 45";
+		rLen = 82;
+		rLoc = 1327;
+		rType = 0;
+		vrLen = 4777;
+		vrLoc = 809;
+	};
+	F11272701325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8512AA82AB009A33AC /* TCMoreTabViewController.h */;
+		name = "TCMoreTabViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 921;
+		vrLoc = 0;
+	};
+	F11272711325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8912AA82AB009A33AC /* TCTabBarController+UITableViewDelegate.h */;
+		name = "TCTabBarController+UITableViewDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 0;
+	};
+	F11272721325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8A12AA82AB009A33AC /* TCTabBarController+UITableViewDelegate.m */;
+		name = "TCTabBarController+UITableViewDelegate.m: 27";
+		rLen = 0;
+		rLoc = 953;
+		rType = 0;
+		vrLen = 2648;
+		vrLoc = 0;
+	};
+	F11272731325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8812AA82AB009A33AC /* TCTabBarController+UITabBarDelegate.m */;
+		name = "TCTabBarController+UITabBarDelegate.m: 13";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 3258;
+		vrLoc = 0;
+	};
+	F11272751325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22D8215F1294B07900D3A5E8 /* RootViewTabBarController.m */;
+		name = "RootViewTabBarController.m: 88";
+		rLen = 0;
+		rLoc = 3707;
+		rType = 0;
+		vrLen = 4004;
+		vrLoc = 0;
+	};
+	F11272761325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8612AA82AB009A33AC /* TCMoreTabViewController.m */;
+		name = "TCMoreTabViewController.m: 53";
+		rLen = 0;
+		rLoc = 1567;
+		rType = 0;
+		vrLen = 3181;
+		vrLoc = 0;
+	};
+	F11272771325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223176D712CB469100399972 /* PokemonProfileTabController.h */;
+		name = "PokemonProfileTabController.h: 12";
+		rLen = 18;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 954;
+		vrLoc = 0;
+	};
+	F11272791325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8B12AA82AB009A33AC /* TCTabBarController.h */;
+		name = "TCTabBarController.h: 19";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 2900;
+		vrLoc = 0;
+	};
+	F112727C1325CDDB00EA6D18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1135711131B29670043AD6C /* MoveProfileTabController.m */;
+		name = "MoveProfileTabController.m: 60";
+		rLen = 0;
+		rLoc = 1964;
+		rType = 0;
+		vrLen = 2610;
+		vrLoc = 0;
+	};
+	F1135710131B29670043AD6C /* MoveProfileTabController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{282, 0}";
+			sepNavVisRange = "{0, 663}";
+		};
+	};
+	F1135711131B29670043AD6C /* MoveProfileTabController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 1131}}";
+			sepNavSelRange = "{1378, 7}";
+			sepNavVisRange = "{697, 1689}";
+		};
+	};
+	F1135729131B2FC60043AD6C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPokedex-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/TimOliver/Dropbox/Projects/iPokedex/iPokedex-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F113572A131B2FC60043AD6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22D8215E1294B07900D3A5E8 /* RootViewTabBarController.h */;
+		name = "RootViewTabBarController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1300;
+		vrLoc = 0;
+	};
+	F113572C131B2FC60043AD6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPokedexAppDelegate.m */;
+		name = "iPokedexAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2140;
+		vrLoc = 0;
+	};
+	F1135755131B31720043AD6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BC748512B0C74900C350A1 /* EntryFinder.h */;
+		name = "EntryFinder.h: 46";
+		rLen = 0;
+		rLoc = 1134;
+		rType = 0;
+		vrLen = 1140;
+		vrLoc = 0;
+	};
+	F1135760131B33150043AD6C /* MoveProfileMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1261}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 934}";
+		};
+	};
+	F1135761131B33150043AD6C /* MoveProfileMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 3185}}";
+			sepNavSelRange = "{3328, 0}";
+			sepNavVisRange = "{0, 2491}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	F113576D131B48AF0043AD6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22D821471294B00D00D3A5E8 /* bulbadex.sqlite */;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+		rType = 0;
+	};
+	F1135777131B8A660043AD6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F88F3512C0595300BF0E1F /* ItemTypes.m */;
+		name = "ItemTypes.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2066;
+		vrLoc = 0;
+	};
+	F1135779131B8A660043AD6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2235EC2E1294EACC00FF9113 /* Pokemon.h */;
+		name = "Pokemon.h: 18";
+		rLen = 125;
+		rLoc = 310;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 0;
+	};
+	F11CBEC512ED682500EE7C68 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F15A19B612ED2DF3007A5407 /* GradientRoundedRectView.h */;
+		name = "GradientRoundedRectView.h: 16";
+		rLen = 20;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	F12255CC130510B7001BE7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22494FBD12E2BB6E00E3C4A1 /* PokemonEffortYieldView.m */;
+		name = "PokemonEffortYieldView.m: 232";
+		rLen = 0;
+		rLoc = 7024;
+		rType = 0;
+		vrLen = 2040;
+		vrLoc = 298;
+	};
+	F12E38FF12FBB0FF00EC954E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F12E390012FBB0FF00EC954E /* UITableViewController.h */;
+		name = "UITableViewController.h: 17";
+		rLen = 126;
+		rLoc = 664;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 0;
+	};
+	F12E390012FBB0FF00EC954E /* UITableViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewController.h;
+		sourceTree = "<absolute>";
+	};
+	F12F442812F14FEB00F28595 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1636, 647}}";
+			sepNavSelRange = "{31, 0}";
+			sepNavVisRange = "{0, 33}";
+			sepNavWindowFrame = "{{19, 638}, {1695, 775}}";
+		};
+	};
+	F12F443712F1500600F28595 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F12F442812F14FEB00F28595 /* en */;
+		name = "InfoPList.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	F12F444412F160CF00F28595 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22766F1912F1227A0083C05D /* ja */;
+		name = "InfoPList.strings: 1";
+		rLen = 0;
+		rLoc = 29;
+		rType = 0;
+		vrLen = 29;
+		vrLoc = 0;
+	};
+	F1310EA41325EE3D0049561C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D9012AA82AB009A33AC /* TCNavigationController.m */;
+		name = "TCNavigationController.m: 39";
+		rLen = 0;
+		rLoc = 861;
+		rType = 0;
+		vrLen = 2277;
+		vrLoc = 0;
+	};
+	F1310EB11325EEA40049561C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22FEB0BE12B0AA0B00EB4C89 /* TCRefinableListViewController.m */;
+		name = "TCRefinableListViewController.m: 81";
+		rLen = 0;
+		rLoc = 2323;
+		rType = 0;
+		vrLen = 2962;
+		vrLoc = 0;
+	};
+	F13F0015132613AA00FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2211B10F1295183B00954510 /* PokemonListViewController.h */;
+		name = "PokemonListViewController.h: 9";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 0;
+	};
+	F13F0017132613AA00FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iPokedexAppDelegate.h */;
+		name = "iPokedexAppDelegate.h: 22";
+		rLen = 13;
+		rLoc = 641;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	F13F0023132615FC00FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2219A82013236AC700930B38 /* EggGroupsListViewController.h */;
+		name = "EggGroupsListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 0;
+	};
+	F13F0028132615FC00FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8712AA82AB009A33AC /* TCTabBarController+UITabBarDelegate.h */;
+		name = "TCTabBarController+UITabBarDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 422;
+		vrLoc = 0;
+	};
+	F13F0029132615FC00FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F13F002A132615FC00FA7430 /* UISlider.h */;
+		name = "UISlider.h: 43";
+		rLen = 119;
+		rLoc = 922;
+		rType = 0;
+		vrLen = 3127;
+		vrLoc = 0;
+	};
+	F13F002A132615FC00FA7430 /* UISlider.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISlider.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISlider.h;
+		sourceTree = "<absolute>";
+	};
+	F13F002B132615FC00FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1EF8B271325C05800CABEB2 /* NSKeyValueCoding.h */;
+		name = "NSKeyValueCoding.h: 69";
+		rLen = 75;
+		rLoc = 9382;
+		rType = 0;
+		vrLen = 17550;
+		vrLoc = 152;
+	};
+	F13F00601326178400FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8C12AA82AB009A33AC /* TCTabBarController.m */;
+		name = "TCTabBarController.m: 445";
+		rLen = 0;
+		rLoc = 13411;
+		rType = 0;
+		vrLen = 2869;
+		vrLoc = 12814;
+	};
+	F13F00611326178400FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8D12AA82AB009A33AC /* TCTabBarItem.h */;
+		name = "TCTabBarItem.h: 13";
+		rLen = 16;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	F13F00621326178400FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8E12AA82AB009A33AC /* TCTabBarItem.m */;
+		name = "TCTabBarItem.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1875;
+		vrLoc = 0;
+	};
+	F13FFFA513260FA200FA7430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2235EC2F1294EACC00FF9113 /* Pokemon.m */;
+		name = "Pokemon.m: 138";
+		rLen = 0;
+		rLoc = 4468;
+		rType = 0;
+		vrLen = 3031;
+		vrLoc = 2825;
+	};
+	F14B9B2A1320945300B0099B /* MoveProfilePokemonViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1284}}";
+			sepNavSelRange = "{938, 0}";
+			sepNavVisRange = "{0, 1081}";
+		};
+	};
+	F14B9B2B1320945300B0099B /* MoveProfilePokemonViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 3770}}";
+			sepNavSelRange = "{6268, 0}";
+			sepNavVisRange = "{5111, 1894}";
+			sepNavWindowFrame = "{{771, 307}, {1695, 775}}";
+		};
+	};
+	F14B9B321320B1A000B0099B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22C19DFC131E52E800213268 /* TableHeaderContentView.m */;
+		name = "TableHeaderContentView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2716;
+		vrLoc = 0;
+	};
+	F14B9B351320B1A000B0099B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1135760131B33150043AD6C /* MoveProfileMainViewController.h */;
+		name = "MoveProfileMainViewController.h: 14";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 934;
+		vrLoc = 0;
+	};
+	F1545EBF1303AA4D00F96084 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2231772612CB6CE600399972 /* PokemonInfoHeader.m */;
+		name = "PokemonInfoHeader.m: 67";
+		rLen = 0;
+		rLoc = 1923;
+		rType = 0;
+		vrLen = 2795;
+		vrLoc = 253;
+	};
+	F15A131912ED29A8007A5407 /* iPokedex */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = "NSZombieEnabled\n";
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iPokedex;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	F15A197212ED29A9007A5407 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F15A197312ED29A9007A5407 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F15A19B612ED2DF3007A5407 /* GradientRoundedRectView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2230, 1284}}";
+			sepNavSelRange = "{321, 20}";
+			sepNavVisRange = "{0, 465}";
+		};
+	};
+	F15A19B712ED2DF3007A5407 /* GradientRoundedRectView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2085, 1638}}";
+			sepNavSelRange = "{599, 0}";
+			sepNavVisRange = "{600, 2746}";
+			sepNavWindowFrame = "{{2583, 321}, {1695, 775}}";
+		};
+	};
+	F16690441320CD46006133A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22C19FBF131E8EC800213268 /* MoveFlagsContentView.m */;
+		name = "MoveFlagsContentView.m: 41";
+		rLen = 0;
+		rLoc = 1189;
+		rType = 0;
+		vrLen = 2642;
+		vrLoc = 774;
+	};
+	F16690451320CD46006133A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22B44FAB130AABB0000D75B2 /* MoveTableCellContentView.h */;
+		name = "MoveTableCellContentView.h: 64";
+		rLen = 108;
+		rLoc = 1441;
+		rType = 0;
+		vrLen = 1556;
+		vrLoc = 0;
+	};
+	F16690461320CD46006133A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F852FD13029CED00DD89E0 /* PokemonTableCellContentView.h */;
+		name = "PokemonTableCellContentView.h: 41";
+		rLen = 0;
+		rLoc = 1086;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 0;
+	};
+	F16690471320CD46006133A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22B44FAC130AABB0000D75B2 /* MoveTableCellContentView.m */;
+		name = "MoveTableCellContentView.m: 69";
+		rLen = 652;
+		rLoc = 1558;
+		rType = 0;
+		vrLen = 2850;
+		vrLoc = 883;
+	};
+	F16690681320CEC9006133A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F852FE13029CED00DD89E0 /* PokemonTableCellContentView.m */;
+		name = "PokemonTableCellContentView.m: 46";
+		rLen = 0;
+		rLoc = 1078;
+		rType = 0;
+		vrLen = 2647;
+		vrLoc = 506;
+	};
+	F188FBCA132744C2002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BEB4E3129C0B5B00593415 /* PokemonEntryFinder.m */;
+		name = "PokemonEntryFinder.m: 711";
+		rLen = 0;
+		rLoc = 23189;
+		rType = 0;
+		vrLen = 1918;
+		vrLoc = 13050;
+	};
+	F188FBE613274590002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2285CD2612DD5C6400C2088C /* TCListViewController.h */;
+		name = "TCListViewController.h: 67";
+		rLen = 0;
+		rLoc = 2432;
+		rType = 0;
+		vrLen = 2919;
+		vrLoc = 0;
+	};
+	F188FBF8132748B9002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2285CD2712DD5C6400C2088C /* TCListViewController.m */;
+		name = "TCListViewController.m: 382";
+		rLen = 0;
+		rLoc = 10544;
+		rType = 0;
+		vrLen = 3172;
+		vrLoc = 8911;
+	};
+	F188FBF9132748B9002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22320C1B130D1FF8005BE64F /* PokemonProfilePokedexViewController.h */;
+		name = "PokemonProfilePokedexViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	F188FBFC132748B9002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D495912C9C77000B101A1 /* MoveEntryFinder.m */;
+		name = "MoveEntryFinder.m: 38";
+		rLen = 0;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 3478;
+		vrLoc = 4204;
+	};
+	F188FC5113275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F14B9B2B1320945300B0099B /* MoveProfilePokemonViewController.m */;
+		name = "MoveProfilePokemonViewController.m: 84";
+		rLen = 0;
+		rLoc = 2601;
+		rType = 0;
+		vrLen = 2624;
+		vrLoc = 3222;
+	};
+	F188FC5213275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22320C1C130D1FF8005BE64F /* PokemonProfilePokedexViewController.m */;
+		name = "PokemonProfilePokedexViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2429;
+		vrLoc = 0;
+	};
+	F188FC5313275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223176D812CB469100399972 /* PokemonProfileTabController.m */;
+		name = "PokemonProfileTabController.m: 108";
+		rLen = 0;
+		rLoc = 4219;
+		rType = 0;
+		vrLen = 4052;
+		vrLoc = 216;
+	};
+	F188FC5413275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2211B1101295183B00954510 /* PokemonListViewController.m */;
+		name = "PokemonListViewController.m: 284";
+		rLen = 185;
+		rLoc = 8557;
+		rType = 0;
+		vrLen = 3398;
+		vrLoc = 6840;
+	};
+	F188FC5513275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2231764B12CB2E9A00399972 /* PokemonProfileMainViewController.h */;
+		name = "PokemonProfileMainViewController.h: 12";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 1418;
+		vrLoc = 0;
+	};
+	F188FC5613275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BEB4E3129C0B5B00593415 /* PokemonEntryFinder.m */;
+		name = "PokemonEntryFinder.m: 462";
+		rLen = 0;
+		rLoc = 16107;
+		rType = 0;
+		vrLen = 2861;
+		vrLoc = 1094;
+	};
+	F188FC5813275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2219A82113236AC700930B38 /* EggGroupsListViewController.m */;
+		name = "EggGroupsListViewController.m: 76";
+		rLen = 0;
+		rLoc = 2160;
+		rType = 0;
+		vrLen = 2197;
+		vrLoc = 0;
+	};
+	F188FC5913275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 224852611323CE9500A9D930 /* EggGroupMainViewController.m */;
+		name = "EggGroupMainViewController.m: 51";
+		rLen = 0;
+		rLoc = 886;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 0;
+	};
+	F188FC5A13275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 224852601323CE9500A9D930 /* EggGroupMainViewController.h */;
+		name = "EggGroupMainViewController.h: 19";
+		rLen = 81;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	F188FC5B13275FC1002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ABFC68130BE3B200B39D35 /* PokemonProfileMovesViewController.m */;
+		name = "PokemonProfileMovesViewController.m: 52";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 3119;
+		vrLoc = 718;
+	};
+	F188FC71132760A9002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2231764C12CB2E9A00399972 /* PokemonProfileMainViewController.m */;
+		name = "PokemonProfileMainViewController.m: 433";
+		rLen = 0;
+		rLoc = 12824;
+		rType = 0;
+		vrLen = 2420;
+		vrLoc = 11082;
+	};
+	F188FC72132760A9002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2219A82413236B0500930B38 /* EggGroupEntryFinder.m */;
+		name = "EggGroupEntryFinder.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1460;
+		vrLoc = 0;
+	};
+	F188FC7F13276118002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BEB4E3129C0B5B00593415 /* PokemonEntryFinder.m */;
+		name = "PokemonEntryFinder.m: 106";
+		rLen = 0;
+		rLoc = 2789;
+		rType = 0;
+		vrLen = 2924;
+		vrLoc = 1094;
+	};
+	F188FC8013276118002B6E0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BEB4E3129C0B5B00593415 /* PokemonEntryFinder.m */;
+		name = "PokemonEntryFinder.m: 722";
+		rLen = 0;
+		rLoc = 23189;
+		rType = 0;
+		vrLen = 1898;
+		vrLoc = 13153;
+	};
+	F19AE8A41303D2F9009534AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F132AB12EE8B00004159DD /* PokemonTypeStrengthsView.m */;
+		name = "PokemonTypeStrengthsView.m: 51";
+		rLen = 0;
+		rLoc = 1743;
+		rType = 0;
+		vrLen = 1408;
+		vrLoc = 1528;
+	};
+	F19AE8A61303D49B009534AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F132A812EE8844004159DD /* PokemonBaseStatsView.m */;
+		name = "PokemonBaseStatsView.m: 84";
+		rLen = 0;
+		rLoc = 2521;
+		rType = 0;
+		vrLen = 2858;
+		vrLoc = 1947;
+	};
+	F19AE8A71303D49B009534AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22494FBA12E2BAE700E3C4A1 /* PokemonGenderRatioView.m */;
+		name = "PokemonGenderRatioView.m: 33";
+		rLen = 0;
+		rLoc = 1050;
+		rType = 0;
+		vrLen = 1846;
+		vrLoc = 0;
+	};
+	F1BCC4431324CC510024ADAA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2219A6B713232A0000930B38 /* TCSegmentedListController.h */;
+		name = "TCSegmentedListController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	F1C91A631303B34D0004BFB0 /* ItemListViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ItemListViewController.m;
+		path = /Users/TimOliver/Dropbox/Projects/iPokedex/Classes/Controllers/ItemListViewController.m;
+		sourceTree = "<absolute>";
+	};
+	F1C91A9A1303B3BB0004BFB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F88F3712C066C400BF0E1F /* ItemListViewController.h */;
+		name = "ItemListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1177;
+		vrLoc = 0;
+	};
+	F1C91AB01303B62A0004BFB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1C91A631303B34D0004BFB0 /* ItemListViewController.m */;
+		name = "ItemListViewController.m: 370";
+		rLen = 0;
+		rLoc = 10602;
+		rType = 0;
+		vrLen = 3251;
+		vrLoc = 7398;
+	};
+	F1C91AB31303B62A0004BFB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F132AA12EE8B00004159DD /* PokemonTypeStrengthsView.h */;
+		name = "PokemonTypeStrengthsView.h: 17";
+		rLen = 0;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
+	};
+	F1C91B121303CF0C0004BFB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2248069112A3C5C300700655 /* CopyrightViewController.m */;
+		name = "CopyrightViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2235;
+		vrLoc = 789;
+	};
+	F1C91B151303CF0C0004BFB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22494FBC12E2BB6E00E3C4A1 /* PokemonEffortYieldView.h */;
+		name = "PokemonEffortYieldView.h: 15";
+		rLen = 63;
+		rLoc = 269;
+		rType = 0;
+		vrLen = 1066;
+		vrLoc = 0;
+	};
+	F1D15F73132725350098DDD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22B30AF7131003E500BDE120 /* PokemonProfileEvolutionsViewController.h */;
+		name = "PokemonProfileEvolutionsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	F1D15F74132725350098DDD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22B30AF8131003E500BDE120 /* PokemonProfileEvolutionsViewController.m */;
+		name = "PokemonProfileEvolutionsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3237;
+		vrLoc = 0;
+	};
+	F1D15F75132725350098DDD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22ABFC67130BE3B200B39D35 /* PokemonProfileMovesViewController.h */;
+		name = "PokemonProfileMovesViewController.h: 10";
+		rLen = 277;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 0;
+	};
+	F1D15F77132725350098DDD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22DAF784130986E6005C3EAD /* TCSearchableListViewController.m */;
+		name = "TCSearchableListViewController.m: 160";
+		rLen = 0;
+		rLoc = 4704;
+		rType = 0;
+		vrLen = 2581;
+		vrLoc = 2269;
+	};
+	F1D15FDB132732BB0098DDD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BEB4E2129C0B5B00593415 /* PokemonEntryFinder.h */;
+		name = "PokemonEntryFinder.h: 106";
+		rLen = 28;
+		rLoc = 2635;
+		rType = 0;
+		vrLen = 2533;
+		vrLoc = 36;
+	};
+	F1D50F5512EEC05600BABA1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2235EC311294EDFF00FF9113 /* ElementalTypes.h */;
+		name = "ElementalTypes.h: 35";
+		rLen = 0;
+		rLoc = 692;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 0;
+	};
+	F1D50F5612EEC05600BABA1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2235EC321294EDFF00FF9113 /* ElementalTypes.m */;
+		name = "ElementalTypes.m: 71";
+		rLen = 59;
+		rLoc = 2133;
+		rType = 0;
+		vrLen = 2963;
+		vrLoc = 164;
+	};
+	F1D611A11300F18C003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2260C29512DCB8D800277BAB /* TCTableViewSplitCell.m */;
+		name = "TCTableViewSplitCell.m: 23";
+		rLen = 44;
+		rLoc = 591;
+		rType = 0;
+		vrLen = 2573;
+		vrLoc = 0;
+	};
+	F1D6126C130101D0003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2243180B13004CEB002314A0 /* TCFloatedBoxesView.h */;
+		name = "TCFloatedBoxesView.h: 32";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 0;
+	};
+	F1D6131213010CDC003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2243180C13004CEB002314A0 /* TCFloatedBoxesView.m */;
+		name = "TCFloatedBoxesView.m: 46";
+		rLen = 0;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 2523;
+		vrLoc = 291;
+	};
+	F1D6136113011D8A003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22C7CF5B12EE604E001AAC23 /* GlossyRoundedRectView.m */;
+		name = "GlossyRoundedRectView.m: 18";
+		rLen = 0;
+		rLoc = 395;
+		rType = 0;
+		vrLen = 2516;
+		vrLoc = 0;
+	};
+	F1D6136213011D8A003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22A3034C12E7E0F1008B00B7 /* RoundedRectView.h */;
+		name = "RoundedRectView.h: 20";
+		rLen = 0;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	F1D6136413011D8A003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F15A19B712ED2DF3007A5407 /* GradientRoundedRectView.m */;
+		name = "GradientRoundedRectView.m: 27";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 2746;
+		vrLoc = 600;
+	};
+	F1D61377130125A9003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F132A412EE87D6004159DD /* PokemonProfileStatsViewController.m */;
+		name = "PokemonProfileStatsViewController.m: 138";
+		rLen = 0;
+		rLoc = 3600;
+		rType = 0;
+		vrLen = 2900;
+		vrLoc = 1904;
+	};
+	F1D613A113012936003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22A3034D12E7E0F1008B00B7 /* RoundedRectView.m */;
+		name = "RoundedRectView.m: 111";
+		rLen = 0;
+		rLoc = 3549;
+		rType = 0;
+		vrLen = 3202;
+		vrLoc = 0;
+	};
+	F1D613AA130129C1003D04E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F132A712EE8844004159DD /* PokemonBaseStatsView.h */;
+		name = "PokemonBaseStatsView.h: 35";
+		rLen = 0;
+		rLoc = 747;
+		rType = 0;
+		vrLen = 1030;
+		vrLoc = 0;
+	};
+	F1DA34E31308D9CB0009AA66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22FEB0BD12B0AA0B00EB4C89 /* TCRefinableListViewController.h */;
+		name = "TCRefinableListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1809;
+		vrLoc = 0;
+	};
+	F1EF8B271325C05800CABEB2 /* NSKeyValueCoding.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSKeyValueCoding.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyValueCoding.h;
+		sourceTree = "<absolute>";
+	};
+	F1EF8B511325C3AC00CABEB2 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	F1F13C6512ED55B6008502B6 /* PokemonEffortYieldView.m:149 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 22494FBD12E2BB6E00E3C4A1 /* PokemonEffortYieldView.m */;
+		functionName = "-initWithFrame:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 149;
+		location = "iPokédex";
+		modificationTime = 321347519.473483;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	F1F2A69F13178A0100E246DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 223A5D8F12AA82AB009A33AC /* TCNavigationController.h */;
+		name = "TCNavigationController.h: 13";
+		rLen = 0;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	F1F3EDC2132719F200140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1135761131B33150043AD6C /* MoveProfileMainViewController.m */;
+		name = "MoveProfileMainViewController.m: 144";
+		rLen = 0;
+		rLoc = 3328;
+		rType = 0;
+		vrLen = 2491;
+		vrLoc = 0;
+	};
+	F1F3EDC3132719F200140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D495812C9C77000B101A1 /* MoveEntryFinder.h */;
+		name = "MoveEntryFinder.h: 83";
+		rLen = 24;
+		rLoc = 1811;
+		rType = 0;
+		vrLen = 2492;
+		vrLoc = 0;
+	};
+	F1F3EDC4132719F200140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22BC748612B0C74900C350A1 /* EntryFinder.m */;
+		name = "EntryFinder.m: 130";
+		rLen = 0;
+		rLoc = 2859;
+		rType = 0;
+		vrLen = 2295;
+		vrLoc = 728;
+	};
+	F1F3EDCF13271A3B00140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D495312C9C5B400B101A1 /* MoveListViewController.m */;
+		name = "MoveListViewController.m: 186";
+		rLen = 0;
+		rLoc = 4840;
+		rType = 0;
+		vrLen = 2656;
+		vrLoc = 3383;
+	};
+	F1F3EE1613271CD300140076 /* malloc_error_break; */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = "";
+		modificationTime = 321347519.47346;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+		symbolName = "malloc_error_break;";
+	};
+	F1F3EE4A13271EE900140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F88F2A12C04EC400BF0E1F /* ItemEntryFinder.h */;
+		name = "ItemEntryFinder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 0;
+	};
+	F1F3EE84132721E400140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2219A6B813232A0000930B38 /* TCSegmentedListController.m */;
+		name = "TCSegmentedListController.m: 78";
+		rLen = 0;
+		rLoc = 2881;
+		rType = 0;
+		vrLen = 3453;
+		vrLoc = 0;
+	};
+	F1F3EE86132721E400140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22DAF783130986E6005C3EAD /* TCSearchableListViewController.h */;
+		name = "TCSearchableListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1106;
+		vrLoc = 0;
+	};
+	F1F3EE8A132722C200140076 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F14B9B2A1320945300B0099B /* MoveProfilePokemonViewController.h */;
+		name = "MoveProfilePokemonViewController.h: 37";
+		rLen = 0;
+		rLoc = 938;
+		rType = 0;
+		vrLen = 1081;
+		vrLoc = 0;
+	};
+	F1F4647212FFA03F00E6ED0B /* PokemonProfileStatsViewController.m:135 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 22F132A412EE87D6004159DD /* PokemonProfileStatsViewController.m */;
+		functionName = "-tableView:heightForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 135;
+		location = "iPokédex";
+		modificationTime = 321347519.473492;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F1F464C912FFA8C000E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F88F3412C0595300BF0E1F /* ItemTypes.h */;
+		name = "ItemTypes.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 0;
+	};
+	F1F4658612FFD25E00E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2231772512CB6CE600399972 /* PokemonInfoHeader.h */;
+		name = "PokemonInfoHeader.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 733;
+		vrLoc = 0;
+	};
+	F1F4658712FFD25E00E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "TCFloatedBoxesView.m: 78";
+		rLen = 0;
+		rLoc = 1842;
+		rType = 0;
+		vrLen = 2691;
+		vrLoc = 399;
+	};
+	F1F4658812FFD25E00E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "TCFloatedBoxesView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1015;
+		vrLoc = 0;
+	};
+	F1F4658912FFD25E00E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2260C29412DCB8D800277BAB /* TCTableViewSplitCell.h */;
+		name = "TCTableViewSplitCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 0;
+	};
+	F1F465BD12FFD4D000E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "TCGroupedTableSectionHeaderView.h: 11";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 397;
+		vrLoc = 0;
+	};
+	F1F465BE12FFD4D000E6ED0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "TCGroupedTableSectionHeaderView.m: 45";
+		rLen = 0;
+		rLoc = 1370;
+		rType = 0;
+		vrLen = 1477;
+		vrLoc = 0;
+	};
+	F1F55396131C8BE4001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2269CC9612FE5FAE0004D194 /* ElementalTypesDamages.m */;
+		name = "ElementalTypesDamages.m: 43";
+		rLen = 0;
+		rLoc = 1687;
+		rType = 0;
+		vrLen = 3878;
+		vrLoc = 0;
+	};
+	F1F55397131C8BE4001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D496B12C9DB7B00B101A1 /* MoveCategories.m */;
+		name = "MoveCategories.m: 48";
+		rLen = 68;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 2736;
+		vrLoc = 0;
+	};
+	F1F55398131C8BE4001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D496A12C9DB7B00B101A1 /* MoveCategories.h */;
+		name = "MoveCategories.h: 33";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 664;
+		vrLoc = 0;
+	};
+	F1F553AC131E3AC8001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D495512C9C6EC00B101A1 /* Move.h */;
+		name = "Move.h: 56";
+		rLen = 0;
+		rLoc = 905;
+		rType = 0;
+		vrLen = 1997;
+		vrLoc = 0;
+	};
+	F1F553AD131E3AC8001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 222D495612C9C6EC00B101A1 /* Move.m */;
+		name = "Move.m: 14";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 2498;
+		vrLoc = 0;
+	};
+	F1F553AE131E3AC8001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1135710131B29670043AD6C /* MoveProfileTabController.h */;
+		name = "MoveProfileTabController.h: 13";
+		rLen = 0;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 0;
+	};
+	F1F553B0131E3AC8001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22F132A312EE87D6004159DD /* PokemonProfileStatsViewController.h */;
+		name = "PokemonProfileStatsViewController.h: 20";
+		rLen = 0;
+		rLoc = 466;
+		rType = 0;
+		vrLen = 627;
+		vrLoc = 0;
+	};
+	F1F553B3131E3AC8001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22726D64130D6BFC0031712E /* PokemonPokedexTextView.m */;
+		name = "PokemonPokedexTextView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2116;
+		vrLoc = 0;
+	};
+	F1F553B4131E3AC8001BAF06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22726D63130D6BFC0031712E /* PokemonPokedexTextView.h */;
+		name = "PokemonPokedexTextView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+}

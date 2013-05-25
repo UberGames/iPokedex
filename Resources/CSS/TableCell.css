@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* iPok√©dex */
+
+/*Disable 'tap and hold' for all elements*/
+* {
+    -webkit-touch-callout:none;
+    -webkit-text-size-adjust: none;
+} 
+
+body {
+	background-color: #fff;
+	font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+	font-size: 11.5pt;
+	line-height: 140%;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #222;
+    font-weight: bold;
+    text-decoration: none;
+}

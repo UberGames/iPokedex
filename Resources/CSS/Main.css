@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* iPokédex */
+
+html {
+   background-color: #fff; 
+}
+
+body {
+	background-color: #fff;
+	color: #777;
+	font-weight: bold;
+	font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+	font-size: 13px;
+	margin: 15px;
+	line-height: 150%;
+    -webkit-text-size-adjust: none;
+}
+
+h2 {
+    margin: 15px 0 5px;
+}
+
+a
+{
+	color: #444;	
+}
+
+hr {
+	height: 1px;
+	color: #777;
+	border: 0 none;
+	background-color: #777;
+	margin: 10px 0 20px;
+}
+
+img {
+    margin: 10px auto;
+	text-align: center;
+	display: block;
+	border: 0 none;   
+}
+
+.center {
+	text-align: center;	
+}

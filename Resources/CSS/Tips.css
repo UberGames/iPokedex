@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* iPokédex */
+
+#pop_to_root {
+	margin: 10px auto;
+	text-align: center;
+	display: block;
+	border: 0 none;
+    width: 274px; 
+    height: 121px;
+    background-image: url(../Images/Tips/PopToRoot.png);
+}
+
+#scroll_to_top {
+	margin: 10px auto;
+	text-align: center;
+	display: block;
+	border: 0 none;
+    width: 274px; 
+    height: 121px;
+    background-image: url(../Images/Tips/ScrollToTop.png);
+}
+
+/* High Resolution (iPhone 4) */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+
+#pop_to_root 
+{
+    background-image: url(../Images/Tips/PopToRoot@2x.png);
+    background-size: 274px 121px;
+}
+ 
+#scroll_to_top
+{
+    background-image: url(../Images/Tips/ScrollToTop@2x.png);
+    background-size: 274px 121px;
+}
+ 
+}

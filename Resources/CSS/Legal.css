@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* iPokédex */
+
+#ubergames_logo {
+	margin: 10px auto;
+	text-align: center;
+	display: block;
+	border: 0 none;
+    width: 275px; 
+    height: 25px;
+    background-image: url(../Images/Logos/UberGames.png);
+}
+
+/* High Resolution (iPhone 4) */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+
+#ubergames_logo
+{
+    background-image: url(../Images/Logos/UberGames@2x.png);
+    background-size: 275px 25px;
+}
+ 
+}

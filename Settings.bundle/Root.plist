@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>IASKViewControllerClass</key>
+			<string>AboutViewController</string>
+			<key>IASKViewControllerSelector</key>
+			<string>init</string>
+			<key>Title</key>
+			<string>About iPokédex</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>IASKViewControllerClass</key>
+			<string>TipsViewController</string>
+			<key>IASKViewControllerSelector</key>
+			<string>init</string>
+			<key>Title</key>
+			<string>Tips and Tricks</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>IASKViewControllerClass</key>
+			<string>CopyrightViewController</string>
+			<key>IASKViewControllerSelector</key>
+			<string>init</string>
+			<key>Title</key>
+			<string>Legal Information</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Default Sorting</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>0</string>
+			<key>Key</key>
+			<string>defaultRegion</string>
+			<key>Title</key>
+			<string>Region</string>
+			<key>Titles</key>
+			<array>
+				<string>National</string>
+				<string>Unova</string>
+				<string>Sinnoh</string>
+				<string>Hoenn</string>
+				<string>Johto</string>
+				<string>Kanto</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<string>0</string>
+				<string>5</string>
+				<string>4</string>
+				<string>3</string>
+				<string>2</string>
+				<string>1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>0</string>
+			<key>Key</key>
+			<string>defaultGeneration</string>
+			<key>Title</key>
+			<string>Generation</string>
+			<key>Titles</key>
+			<array>
+				<string>Latest</string>
+				<string>Generation V</string>
+				<string>Generation IV</string>
+				<string>Generation III</string>
+				<string>Generation II</string>
+				<string>Generation I</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<string>0</string>
+				<string>5</string>
+				<string>4</string>
+				<string>3</string>
+				<string>2</string>
+				<string>1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>iPokédex v1.3 © UberGames 2011</string>
+			<key>Title</key>
+			<string>Miscellaneous</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>autoplayCries</string>
+			<key>Title</key>
+			<string>Auto-play Pokémon cries</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>loadLinksInSafari</string>
+			<key>Title</key>
+			<string>Load links in Safari</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>realNameMode</string>
+			<key>Title</key>
+			<string>Smugleaf Mode</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
